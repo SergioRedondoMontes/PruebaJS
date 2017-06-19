@@ -1,0 +1,39 @@
+[{
+		"clave": "mundo",
+		"nombre": "El Mundo",
+		"url": "http://www.elmundo.es",
+		"dibujantes": [{
+				"nombre": "Ricardo",
+				"ultimo": "http://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/05/01/14936613230607.jpg"
+			},
+			{
+				"nombre": "Gallego y Rey",
+				"ultimo": "http://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2017/05/01/14936627627110.jpg"
+			}
+		]
+	},
+	{
+		"clave": "pais",
+		"nombre": "El Pais",
+		"url": "http://elpais.com",
+		"dibujantes": [{
+				"nombre": "El Roto",
+				"todos": "http://elpais.com/autor/el_roto/a/",
+				"ultimo": "http://ep01.epimg.net/elpais/imagenes/2017/05/01/opinion/1493643142_748113_1493652422_noticia_normal_recorte1.jpg"
+			},
+			{
+				"nombre": "Forges",
+				"todos": "http://elpais.com/autor/antonio_fraguas_forges/a/",
+				"ultimo": "http://ep01.epimg.net/elpais/imagenes/2017/05/01/opinion/1493643223_632210_1493652557_noticia_normal_recorte1.jpg"
+			}
+		]
+	},
+	{
+		"clave": "noticias",
+		"nombre": "Las noticias de la manana"
+	},
+	{
+		"clave": "olvidadizo",
+		"nombre": "El olvidadizo"
+	}
+]
